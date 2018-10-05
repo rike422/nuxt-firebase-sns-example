@@ -1,0 +1,11 @@
+{
+  "name": "nuxt-firebase-sns-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/potato4d/nuxt-firebase-sns-example",
+  "author": "HANATANI Takuma <mail@potato4d.me>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
